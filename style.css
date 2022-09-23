@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+   min-height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.container>* {
+
+   flex: 1 0;
+   flex-wrap: wrap;
+   
+}
+
+.diferente{
+
+}
